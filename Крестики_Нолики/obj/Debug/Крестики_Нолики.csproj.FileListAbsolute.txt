@@ -1,0 +1,10 @@
+C:\Users\Denis_Klok\AppData\Local\Temporary Projects\Крестики_Нолики\bin\Debug\Крестики_Нолики.exe.config
+C:\Users\Denis_Klok\AppData\Local\Temporary Projects\Крестики_Нолики\bin\Debug\Крестики_Нолики.exe
+C:\Users\Denis_Klok\AppData\Local\Temporary Projects\Крестики_Нолики\bin\Debug\Крестики_Нолики.pdb
+C:\Users\Denis_Klok\AppData\Local\Temporary Projects\Крестики_Нолики\obj\Debug\Крестики_Нолики.csprojAssemblyReference.cache
+C:\Users\Denis_Klok\AppData\Local\Temporary Projects\Крестики_Нолики\obj\Debug\Крестики_Нолики.Form1.resources
+C:\Users\Denis_Klok\AppData\Local\Temporary Projects\Крестики_Нолики\obj\Debug\Крестики_Нолики.Properties.Resources.resources
+C:\Users\Denis_Klok\AppData\Local\Temporary Projects\Крестики_Нолики\obj\Debug\Крестики_Нолики.csproj.GenerateResource.cache
+C:\Users\Denis_Klok\AppData\Local\Temporary Projects\Крестики_Нолики\obj\Debug\Крестики_Нолики.csproj.CoreCompileInputs.cache
+C:\Users\Denis_Klok\AppData\Local\Temporary Projects\Крестики_Нолики\obj\Debug\Крестики_Нолики.exe
+C:\Users\Denis_Klok\AppData\Local\Temporary Projects\Крестики_Нолики\obj\Debug\Крестики_Нолики.pdb
